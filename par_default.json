@@ -1,0 +1,1 @@
+{"low_e": 20.0, "high_e": 100.0, "pif_threshold": 0.5, "dt": 0.01, "ignore_pif_weights": true, "n_binnings": 8, "prob_th": 1e-06}

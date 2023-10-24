@@ -1,0 +1,6 @@
+{
+  "SOURCE": "SRC_NAME",
+  "SCW_LIST": "path/to/scw_list.scw",
+  "REV_LIST": "path/to/rev_list.rev",
+  "CATALOG":  "path/to/catalog.fits"
+}
